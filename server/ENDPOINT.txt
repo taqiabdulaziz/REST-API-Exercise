@@ -1,0 +1,7 @@
+ENDPOINT
+/register
+/login
+/profile
+/edit/:id
+
+
